@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Shan, a Computer Science & Multimedia student based in Ireland.
+I'm Shan, a penultimate Computer Science & Multimedia undergraduate based in Ireland.
 
 <!--
 **shanwhite/shanwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
