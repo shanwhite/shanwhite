@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hey there! 👋
+
+I'm Shan, a Computer Science & Multimedia student based in Ireland.
+
+### Skills
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Java
+- C++ (just started learning)
 
 <!--
 **shanwhite/shanwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
